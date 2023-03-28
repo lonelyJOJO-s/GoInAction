@@ -1,0 +1,1 @@
+Error: 2023/03/16 15:35:19 specialLog.go:34: something has failed
